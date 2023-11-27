@@ -1,7 +1,7 @@
 // task 1.1
 
 function minNam(array) {
-  if (array.length === null) {
+  if (array.length === 0) {
     return null;
   }
 
